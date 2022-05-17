@@ -4,7 +4,7 @@
 
 ### Design for mobile
 
-<img src="pictures/mobilDesign.png" alt="mobile design" width="200"/>
+<img src="pictures/mobileDesign.png" alt="mobile design" width="200"/>
 
 Photo by <a href="https://unsplash.com/@gatlyn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriel Forsberg</a> on <a href="https://unsplash.com/s/photos/japanese-person?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
