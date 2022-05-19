@@ -1,0 +1,10 @@
+$info: #EBE1CE;
+$light: #ed3c1f;
+$primary: #3E4E50;
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+.addScroll {
+    overflow-y:auto;
+    height: 495px;
+}
