@@ -6,6 +6,12 @@
 
 <img src="pictures/mobileDesign.png" alt="mobile design" width="200"/>
 
+## Picture info
+
+Normally I would have picked pictures with the same measurements, but I forgot to do so. This makes the pictures really difficult to show perfectly on big-screen, desktop and tablet. I like to appologize for this and will fix this when I am done with all the other stuff.
+
+## Picture links
+
 Photo by <a href="https://unsplash.com/@gatlyn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gabriel Forsberg</a> on <a href="https://unsplash.com/s/photos/japanese-person?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Photo by <a href="https://unsplash.com/@alvapratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alva Pratt</a> on <a href="https://unsplash.com/s/photos/japanese-restaurant?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
